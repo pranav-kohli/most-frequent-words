@@ -1,5 +1,5 @@
 # most-frequent-words
-Find the most frequent words in a set of documents
+Find the most frequent words and their occurrences in a set of documents
 
 Run commands
 Unzip the folder and go to the folder in the terminal and run the following commands
